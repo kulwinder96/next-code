@@ -1,0 +1,1 @@
+window.alert("hi html i am javascript");)
